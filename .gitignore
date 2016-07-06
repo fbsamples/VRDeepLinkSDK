@@ -1,0 +1,38 @@
+# Lines that start with '#' are comments.
+#
+
+# Cached python scripts in bytecode form
+*.pyc
+
+# Gradle-related files
+.gradle
+/VRDeepLinkSDK/build/
+/VRDeepLinkSDK/gen/
+/VRDeepLinkSDK/out/
+
+# Android Studio files
+.idea/
+*.iml
+
+# Windows project files
+*.opensdf
+*.sdf
+*.vcxproj.user
+*.suo
+
+# Windows build artifacts
+
+# packed assets
+/*/packed/
+/*/assets.pak
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VIM swap files
+*.swp
+*.swo
+

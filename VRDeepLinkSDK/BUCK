@@ -1,0 +1,7 @@
+android_library(
+  name = 'vrdeeplinksdk',
+  srcs = glob(['src/**/*.java']),
+  deps = [
+  ],
+  visibility = ['PUBLIC']
+)
