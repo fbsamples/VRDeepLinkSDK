@@ -1,3 +1,5 @@
+** THIS REPO HAS BEEN ARCHIVED AND IS NO LONGER BEING ACTIVELY MAINTAINED **
+
 # VRDeepLinkSDK
 This SDK provides code samples on how to construct a URI intent to view 360
 immersive contents that are hosted on Facebook, either in Oculus Video/360Photo
